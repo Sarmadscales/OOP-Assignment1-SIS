@@ -1,9 +1,9 @@
 /*
 ============================================================================
 File: Student.cpp
-Course: CP221-F25-BS-AI-F24-AC2
+Course: CP223-F25-BS-AI-F24-AC2
 Assignment: 1 - Student Information System
-Author: [Your Name]
+Author: Muhammad Sarmad
 ============================================================================
 Description: Implementation file for Student class.
              Demonstrates ABSTRACTION by separating implementation from interface.
