@@ -1,7 +1,7 @@
 /*
 ============================================================================
 File: Student.h
-Course: CP221-F25-BS-AI-F24-AC2
+Course: CP223-F25-BS-AI-F24-AC2
 Assignment: 1 - Student Information System
 Author: Muhammad Sarmad
 ============================================================================
