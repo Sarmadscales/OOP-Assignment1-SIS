@@ -1,10 +1,10 @@
 /*
 ============================================================================
 File: main.cpp
-Course: CP221-F25-BS-AI-F24-AC2
+Course: CP223-F25-BS-AI-F24-AC2
 Assignment: 1 - Student Information System
-Author: [Your Name]
-Enrollment No: [Your Enrollment Number]
+Author:Muhammad Sarmad
+Enrollment No: L1F24BSAI0059
 ============================================================================
 */
 
