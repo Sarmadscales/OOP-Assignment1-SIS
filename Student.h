@@ -3,7 +3,7 @@
 File: Student.h
 Course: CP221-F25-BS-AI-F24-AC2
 Assignment: 1 - Student Information System
-Author: [Your Name]
+Author: Muhammad Sarmad
 ============================================================================
 Description: Interface/Declaration file for Student class.
              Demonstrates ABSTRACTION by separating interface from implementation.
